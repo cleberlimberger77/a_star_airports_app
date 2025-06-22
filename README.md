@@ -10,4 +10,4 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-streamlit https://z24dmpnxe72dz63rkbjrsd.streamlit.app/
+streamlit: https://z24dmpnxe72dz63rkbjrsd.streamlit.app/
